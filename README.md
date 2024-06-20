@@ -3,7 +3,7 @@ Main form will open.
 Click on Add Data button
 Covid data entry form will open.
 Select Country , State and Date and enter 
-New cases , Rcovered Cases , Deaths and Vaccinated No.
+New cases , Recovered Cases , Deaths and Vaccinated No.
 Click on save button.
 Daily data entry can be done for each country and state.
 In Main Form click on Show Report button
